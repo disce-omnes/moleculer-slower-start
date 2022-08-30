@@ -1,0 +1,20 @@
+{
+  "name": "moleculer-slower-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.28.5",
+    "moleculer19": "npm:moleculer@^0.14.19",
+    "moleculer20": "npm:moleculer@^0.14.20"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
